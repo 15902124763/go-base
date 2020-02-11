@@ -7,5 +7,4 @@ func main() {
 	//db.Delete()
 	db.Update()
 	db.Query()
-
 }
